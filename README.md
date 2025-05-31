@@ -43,5 +43,5 @@ Repositori ini berisi implementasi strategi greedy by highest density untuk meng
 ---
 
 ## Dokumentasi Game
-![Tampilan Permainan](/)
+![Tampilan Game](img/Screenshot(172).png)
 
