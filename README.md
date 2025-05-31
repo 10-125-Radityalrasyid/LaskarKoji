@@ -4,7 +4,7 @@
 
 ```bash
 Raditya Alrasyid Nugroho     123140125
-Muhamad Rafi Ilham          123140173
+Muhamad Rafi Ilham           123140173
 Rian Rafael Sangap Tamba     123140190
 ```
 ---
