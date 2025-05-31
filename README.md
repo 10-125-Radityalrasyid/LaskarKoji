@@ -1,5 +1,6 @@
-# TUBES-STIMA-Etimo Diamonds
+# TUGAS BESAR STRATEGI ALGORITMA 
 ## Kelompok Laskar Koji
+## Kelas RD
 
 ```bash
 Raditya Alrasyid Nugroho     123140125
