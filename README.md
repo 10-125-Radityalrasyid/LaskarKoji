@@ -41,7 +41,3 @@ Repositori ini berisi implementasi strategi greedy by highest density untuk meng
 1. Jalankan game engine dengan mengunduh folder game engine pada tautan ini (https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0)
 2. Jalankan bot starter pack dengan mengunduh folder bot pada tautan ini (https://github.com/haziqam/tubes1-IF2211-bot-starter-pack/releases/tag/v1.0.1)
 ---
-
-## Dokumentasi Game
-![Tampilan Game](img/Screenshot(172).png)
-
