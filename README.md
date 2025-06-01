@@ -38,7 +38,54 @@ Repositori ini berisi implementasi strategi greedy by highest density untuk meng
 ---
 
 ## Set Up Untuk Menjalankan Program
+1. Game Engine yang harus di install:
+   - Node.js (https://nodejs.org/en)
+   - Docker Desktop (https://www.docker.com/products/docker-desktop/)
+   - Yarn
+     ```bash
+     npm install --global yarn
 
-1. Jalankan game engine dengan mengunduh folder game engine pada tautan ini (https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0)
-2. Jalankan bot starter pack dengan mengunduh folder bot pada tautan ini (https://github.com/haziqam/tubes1-IF2211-bot-starter-pack/releases/tag/v1.0.1)
+2. Bot Starter pack yang harus di install:
+   - Python (https://www.python.org/downloads/)
+
+## Cara menjalankan program
+
+1. **Jalankan game engine** dengan cara mengunduh starter pack game engine dalam bentuk file `.zip` yang terdapat pada tautan berikut:  
+   [Link Starter Pack Game Engine](https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0)  
+   Setelah melakukan instalasi, lakukan ekstraksi file `.zip` tersebut, lalu masuk ke root folder dari hasil ekstraksi file tersebut kemudian jalankan terminal.
+
+   A. **Masuk ke direktori root dari game engine:**
+   ```bash
+   cd tubes1-IF2110-game-engine-1.1.0
+   ```
+
+   B. Instal dependencies menggunakan yarn:
+   ```bash
+   yarn
+   ```
+   C. Lakukan setup environment variable
+   ```bash
+   ./scripts/copy-env.bat
+   ```
+
+   D. Lakukan setup local database dengan membuka aplikasi docker desktop terlebih dahulu lalu jalankan perintah berikut di terminal
+   ```bash
+   docker compose up -d database
+   ```
+
+   E. Kemudian jalankan script berikut. Untuk Windows
+   ```bash
+   ./scripts/setup-db-prisma.bat
+   ```
+   F. Jalankan perintah berikut untuk melakukan build frontend dari game engine
+   ```bash
+   npm run build
+   ```
+   G. Jalankan perintah dibawah untuk memulai game engine
+   ```bash
+   npm run start
+   ```
+   H.Jika berhasil, tampilan terminal akan terlihat seperti gambar di bawah ini
+   ![Preview Game]()
+
 ---
