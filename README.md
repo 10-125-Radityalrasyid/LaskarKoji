@@ -50,8 +50,8 @@ Repositori ini berisi implementasi strategi greedy by highest density untuk meng
 
 ## Cara menjalankan program
 
-1. **Jalankan game engine** dengan cara mengunduh starter pack game engine dalam bentuk file `.zip` yang terdapat pada tautan berikut:  
-   [Link Starter Pack Game Engine](https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0)  
+1. **Jalankan game engine** dengan cara mengunduh starter pack game engine dalam bentuk file `.zip` yang terdapat pada tautan berikut:
+   (https://github.com/haziqam/tubes1-IF2211-game-engine/releases/tag/v1.1.0)  
    Setelah melakukan instalasi, lakukan ekstraksi file `.zip` tersebut, lalu masuk ke root folder dari hasil ekstraksi file tersebut kemudian jalankan terminal.
 
    A. **Masuk ke direktori root dari game engine:**
@@ -86,7 +86,7 @@ Repositori ini berisi implementasi strategi greedy by highest density untuk meng
    npm run start
    ```
 
-2. Jalankan bot starter pack dengan cara mengunduh kit dengan ekstensi .zip yang terdapat pada tautan berikut (https://github.com/haziqam/tubes1-IF2211-bot-starter-    pack/releases/tag/v1.0.1)
+3. Jalankan bot starter pack dengan cara mengunduh kit dengan ekstensi .zip yang terdapat pada tautan berikut (https://github.com/haziqam/tubes1-IF2211-bot-starter-    pack/releases/tag/v1.0.1)
 
    A.  Lakukan ekstraksi file zip tersebut, kemudian masuk ke folder hasil ekstrak tersebut dan buka terminal b. Jalankan perintah berikut untuk masuk ke root directory           dari project
 
