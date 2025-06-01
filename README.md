@@ -85,9 +85,28 @@ Repositori ini berisi implementasi strategi greedy by highest density untuk meng
    ```bash
    npm run start
    ```
-   H.Jika berhasil, tampilan terminal akan terlihat seperti gambar di bawah ini
-   ![Deskripsi Gambar](./assets/nama-gambar.png)
 
+2. Jalankan bot starter pack dengan cara mengunduh kit dengan ekstensi .zip yang terdapat pada tautan berikut (https://github.com/haziqam/tubes1-IF2211-bot-starter-    pack/releases/tag/v1.0.1)
+
+   A.  Lakukan ekstraksi file zip tersebut, kemudian masuk ke folder hasil ekstrak tersebut dan buka terminal b. Jalankan perintah berikut untuk masuk ke root directory           dari project
+
+   B. Jalankan perintah berikut untuk masuk ke root directory dari project
+   ```bash
+   cd tubes1-IF2110-bot-starter-pack-1.0.1
+   ```
+   C. Jalankan perintah berikut untuk menginstall dependencies dengan menggunakan pip
+   ```bash
+   pip install -r requirements.txt
+   ```
+   D. Jalankan program dengan cara menjalankan perintah dibawah ini.
+   ```bash
+   python main.py --logic MyBot --email=your_email@example.com --name=your_name --password=your_password --team etimo
+   ```
+   E. Jika ingin hanya menjalankan satu bot saja atau beberapa bot dapat menggunakan .bat atau .sh script. Untuk windows
+   ```bash
+   ./run-bots.bat
+   ```
+   
 
 
 ---
