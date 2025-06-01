@@ -86,6 +86,8 @@ Repositori ini berisi implementasi strategi greedy by highest density untuk meng
    npm run start
    ```
    H.Jika berhasil, tampilan terminal akan terlihat seperti gambar di bawah ini
-   ![Preview Game]()
+   ![Deskripsi Gambar](./assets/nama-gambar.png)
+
+
 
 ---
